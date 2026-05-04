@@ -1,0 +1,46 @@
+{
+  "name": "newspaper-theme",
+  "version": "2.0.0",
+  "publisher": "mosaulse",
+  "description": "中国老报纸风格 VS Code 主题 - 泛黄纸张、浓黑墨迹、朱砂印章红，Light/Dark 双色系",
+  "icon": "icon.png",
+  "homepage": "https://github.com/mosaulse/NewsPaperTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mosaulse/NewsPaperTheme.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "light",
+    "dark",
+    "newspaper",
+    "chinese",
+    "vintage"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Newspaper Light",
+        "uiTheme": "vs",
+        "path": "./themes/Newspaper-Light.json"
+      },
+      {
+        "label": "Newspaper Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Newspaper-Dark.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#f4e8c1",
+    "theme": "light"
+  }
+}

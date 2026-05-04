@@ -1,0 +1,20 @@
+# Ignore files for VS Code extension packaging
+# See: https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+# Docs and previews (not needed in .vsix)
+docs/
+
+# Workspace config
+.workbuddy/
+
+# Development files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git files (optional, usually auto-ignored)
+.git/
+.gitignore
