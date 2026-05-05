@@ -1,7 +1,7 @@
 {
   "name": "newspaper-theme",
   "displayName": "Newspaper Theme Mosaulse",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "Mosaulse",
   "description": "中国老报纸风格 VS Code 主题 - 泛黄纸张、浓黑墨迹、朱砂印章红，Light/Dark 双色系",
   "icon": "icon.png",
@@ -41,7 +41,7 @@
     ]
   },
   "galleryBanner": {
-    "color": "#f4e8c1",
+    "color": "#f5e9c2",
     "theme": "light"
   }
 }

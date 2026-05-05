@@ -10,21 +10,21 @@
 
 | 色系 | 关键颜色 | 用途 |
 |------|----------|------|
-| 📰 纸张色 | `#f4e8c1` 报纸黄 | 编辑器背景 |
-| 🖋️ 墨迹色 | `#1a1a1a` 墨黑 | 主文字 |
-| 🔴 印章色 | `#c41e1e` 印章红 | 错误、徽章 |
-| 🔵 青花色 | `#2c6e8c` 青花蓝 | 关键字、类型 |
-| 🟤 赭石色 | `#5c4033` 赭石褐 | 字符串 |
+| 📰 纸张色 | <span style="background:#f5e9c2; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#f5e9c2` 报纸黄 | 编辑器背景 |
+| 🖋️ 墨迹色 | <span style="background:#1a1a1a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#1a1a1a` 墨黑 | 主文字 |
+| 🔴 印章色 | <span style="background:#c41e1e; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#c41e1e` 印章红 | 错误、徽章 |
+| 🔵 青花色 | <span style="background:#2c6e8c; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#2c6e8c` 青花蓝 | 关键字、类型 |
+| 🟤 赭石色 | <span style="background:#5c4033; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#5c4033` 赭石褐 | 字符串 |
 
 ### Newspaper Dark（报纸·做旧版）
 
 | 色系 | 关键颜色 | 用途 |
 |------|----------|------|
-| 🖤 墨底色 | `#1a1410` 暖墨底 | 编辑器背景 |
-| 📰 米色字 | `#c8b88a` 米色字 | 主文字 |
-| 🔴 朱砂色 | `#e06c60` 朱砂亮 | 字符串 |
-| 🟡 古铜色 | `#8b6914` 暗金古铜 | 关键字 |
-| 🔵 青花亮 | `#6aabd2` 青花亮 | 函数名、类型 |
+| 🖤 墨底色 | <span style="background:#1a1410; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#1a1410` 暖墨底 | 编辑器背景 |
+| 📰 米色字 | <span style="background:#c8b88a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#c8b88a` 米色字 | 主文字 |
+| 🔴 朱砂色 | <span style="background:#d8655a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#d8655a` 朱砂亮 | 字符串 |
+| 🟡 古铜色 | <span style="background:#8b6914; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#8b6914` 暗金古铜 | 关键字 |
+| 🔵 青花亮 | <span style="background:#6aabd2; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#6aabd2` 青花亮 | 函数名、类型 |
 
 ## 安装方法
 
@@ -60,11 +60,11 @@
 
 | 语义 | Light | Dark |
 |------|-------|------|
-| 关键字 | `#2c6e8c` 青花蓝 | `#8b6914` 暗金古铜 |
-| 字符串 | `#5c4033` 赭石褐 | `#e06c60` 朱砂亮 |
-| 注释 | `#4a5e3a` 橄榄深绿 | `#7a8e6a` 橄榄亮绿 |
-| 函数名 | `#1a1a1a` 墨黑 | `#6aabd2` 青花亮 |
-| 数字 | `#8b1a1a` 暗朱红 | `#c41e1e` 印章红 |
+| 关键字 | <span style="background:#2c6e8c; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#2c6e8c` 青花蓝 | <span style="background:#8b6914; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#8b6914` 暗金古铜 |
+| 字符串 | <span style="background:#5c4033; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#5c4033` 赭石褐 | <span style="background:#d8655a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#d8655a` 朱砂亮 |
+| 注释 | <span style="background:#4a5e3a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#4a5e3a` 橄榄深绿 | <span style="background:#7a8e6a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#7a8e6a` 橄榄亮绿 |
+| 函数名 | <span style="background:#1a1a1a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#1a1a1a` 墨黑 | <span style="background:#6aabd2; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#6aabd2` 青花亮 |
+| 数字 | <span style="background:#8b1a1a; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#8b1a1a` 暗朱红 | <span style="background:#c41e1e; width:20px; height:20px; display:inline-block; border-radius:4px; vertical-align:middle; margin-right:4px;"></span>`#c41e1e` 印章红 |
 
 ## 变更日志
 
