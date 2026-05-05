@@ -1,5 +1,10 @@
 # 📰 中国老报纸主题 (Newspaper Theme)
 
+[![VSCode](https://img.shields.io/badge/VSCode-Newspaper%20Theme%20Mosaulse-blue?style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Mosaulse.newspaper-theme) ![VSCode Version](https://vsmarketplacebadges.dev/version-short/Mosaulse.newspaper-theme.svg) ![VSCode Downloads](https://vsmarketplacebadges.dev/downloads/Mosaulse.newspaper-theme.svg)
+[![OpenVSX](https://img.shields.io/badge/OpenVSX-Newspaper%20Theme%20Mosaulse-blue?style=flat&logo=visual-studio-code&color=%23ff7aad)](https://open-vsx.org/extension/Mosaulse/newspaper-theme) ![Open VSX Version](https://img.shields.io/open-vsx/v/Mosaulse/newspaper-theme?style=flat&color=%23ff7aad) ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Mosaulse/newspaper-theme?style=flat&color=%23ff7aad)
+![GitHub License](https://img.shields.io/github/license/Mosaulse/NewsPaperTheme)
+
+
 > 泛黄纸张 · 浓黑墨迹 · 朱砂印章红 — 在 VS Code 中重现民国老报纸的排版美学
 
 ## 预览
